@@ -1,0 +1,90 @@
+
+.heading{
+
+  color: #000080;
+  font: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+html {
+  background-color: #f5f7f9;
+} 
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+  background-image: url('../img/water.gif');
+}
+
+strong {
+  color: #17508a;
+  font-family: Comic Sans MS;
+}
+
+.navbar {
+  background: #025aa5;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card-text {
+  font-family: cursive; 
+}
+
+.card {
+  border-color: #ccc;
+  opacity: 0.7;
+}
+
+.card-title {
+  color: #025aa5;
+  font-weight: 200;
+  font-weight: bold;
+  text-align: center;
+}
+
+.profile-picture {
+opacity: 1;
+border-radius: 175px;
+}
+
+.card-block small {
+  float: right;
+}
+  
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.test-link {
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px; 
+}
+p {
+  font-size: 1.0em;
+  color: #000000;
+  background-image: none;
+  background-color: transparent;
+}
